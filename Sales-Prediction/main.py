@@ -1,4 +1,5 @@
-#
+Completed assignment
+
 # Sam Baer
 # 2/03/2026
 # Sales Prediction Programming Project
@@ -16,5 +17,4 @@ total_sales = float(input("Enter the projected total sales: "))
 profit = total_sales * 0.23
 
 # Print the projected profit
-print(f"The projected profit is: ${profit:,.2f}")
-       
+print("Projected profit is $", format(profit, '.2f'))
