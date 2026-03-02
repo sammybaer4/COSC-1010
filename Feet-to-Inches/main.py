@@ -1,7 +1,22 @@
 #
 # Name
 # Date
-# Feet to Inches Programming Project
+# File Display Programming Project
 # COSC 1010
-#
-# Use comments liberally throughout the program.
+ 
+
+
+# Function that converts feet to inches
+def feet_to_inches(feet):
+    return feet * 12
+
+
+# Main program
+def main():
+ user_feet = float(input("Enter number of feet: "))
+ inches = feet_to_inches(user_feet)
+ print("That is", inches, "inches.")
+
+
+# Call main
+main()
