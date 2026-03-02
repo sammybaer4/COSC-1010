@@ -1,7 +1,7 @@
 #
 # Name
 # Date
-# File Display Programming Project
+# Feet to inches programing project
 # COSC 1010
  
 
