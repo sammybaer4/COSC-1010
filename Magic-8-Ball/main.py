@@ -1,6 +1,6 @@
 #
-# Name
-# Date
+# sam
+# 4/8/2026
 # Magic 8 Ball Programming Project
 # COSC 1010
 #
